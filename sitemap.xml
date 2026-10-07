@@ -1,35 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
        <loc>https://alnaduae.com/</loc>
-       <lastmod>2026-08-21T12:50:21+00:00</lastmod>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
        <priority>1.0000</priority>
   </url>
   <url>
-       <loc>https://alnaduae.com/alnad/index.html</loc>
-       <lastmod>2026-08-21T12:50:21+00:00</lastmod>
+       <loc>https://alnaduae.com/Al_Nad/index.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://alnaduae.com/alnad/about.html</loc>
-       <lastmod>2026-08-21T12:50:21+00:00</lastmod>
+       <loc>https://alnaduae.com/Al_Nad/about.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
        <priority>0.6400</priority>
   </url>
   <url>
-       <loc>https://alnaduae.com/alnad/products.html</loc>
-       <lastmod>2026-08-21T12:50:21+00:00</lastmod>
+       <loc>https://alnaduae.com/Al_Nad/products.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
        <priority>0.6400</priority>
   </url>
   <url>
-       <loc>https://alnaduae.com/alnad/services.html</loc>
-       <lastmod>2026-08-21T12:50:21+00:00</lastmod>
+       <loc>https://alnaduae.com/Al_Nad/backhoe-loader.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
        <priority>0.6400</priority>
   </url>
   <url>
-       <loc>https://alnaduae.com/alnad/contact.html</loc>
-       <lastmod>2026-08-21T12:50:21+00:00</lastmod>
+       <loc>https://alnaduae.com/Al_Nad/wheel-loader.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
        <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/dozer.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/excavator.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/road-roller.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/mini-excavator.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/skid-steer-loader.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/forklift.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/articulating-manlift.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/scissor-lift.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/telescopic-manlift.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/services.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/blog.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/contact.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/index.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/about.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/blog.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/contact.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/products.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/backhoe-loader.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/wheel-loader.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/dozer.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/excavator.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/road-roller.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/mini-excavator.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/skid-steer-loader.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/forklift.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/articulating-manlift.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/scissor-lift.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/telescopic-manlift.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://alnaduae.com/Al_Nad/ar/services.html</loc>
+       <lastmod>2026-10-07T13:25:05+00:00</lastmod>
+       <priority>0.5120</priority>
   </url>
 </urlset>
